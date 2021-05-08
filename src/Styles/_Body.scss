@@ -1,0 +1,28 @@
+.main-div {
+  background-color: #c4c0a1;
+  color: #000;
+  text-align: center;
+}
+
+.main-header {
+  padding-top: 2rem;
+}
+
+.card-header {
+  h1 {
+    color: #8b8b45;
+  }
+}
+
+.card {
+  align-items: center;
+  background: rgba(0, 0, 0, 0);
+  padding-top: 2rem;
+
+  img {
+    max-width: 50%;
+  }
+}
+
+.card-body {
+}
